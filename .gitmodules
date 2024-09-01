@@ -1,0 +1,6 @@
+[submodule "proto"]
+	path = proto
+	url = https://github.com/DefinitelyNotSimon13/amnesia-proto
+[submodule "backend"]
+	path = backend
+	url = https://github.com/DefinitelyNotSimon13/amnesia-backend
